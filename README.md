@@ -1,2 +1,2 @@
 # PoSq
-This repo consists of PoSq Ring Oscilloators written in verilog
+This repo consists of PoSq Ring Oscillators written in verilog
